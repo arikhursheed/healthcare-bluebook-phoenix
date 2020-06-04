@@ -9,6 +9,9 @@ __pycache__/
 #Data
 /data
 
+#Assets and Notes (added by Lori 6/3/2020)
+/assets_and_notes
+
 # Distribution / packaging
 .Python
 build/
