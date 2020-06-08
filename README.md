@@ -1,4 +1,4 @@
-# Healthcare Bluebook
+# Healthcare Bluebook - Team Phoenix
 
 #### Team project in my Data Analytics class at Nasvhille Software School. 
 #### Team Phoenix Members
@@ -38,8 +38,8 @@ As a team we took the following steps.
 - Towards the end we split up into different groups.
     - Two team members - Nicole Muldowny and Diego Alvarez - drove the development of two Tableau dashboards (one each for differences in amount, and differences in utilization)
     - Teresa, Ari and I worked on a alternate method of trying to do the calculation in Python, per a method suggested by our instructor, but we ran into issues with duplicated data that we couldn't resolve in the available time.
-- I took the lead in creating the background theme and graphic presentation for the Google Slide show, using HCBB's hex code colors used by HCBB (that Nicole had reserached)
-- Teresa and I reasearched soem trends we saw in the top 10 / bottom 10 lists of changes in amounts and changes in utilization.
+- I chose the background theme for the Google Slide show, using HCBB's hex code colors (which Nicole had reserached)
+- Teresa and I reasearched some trends we saw in the top 10 / bottom 10 lists of changes in amounts and changes in utilization, to add additional story-telling points to the presentation.
 
 ## Data Sources
 
